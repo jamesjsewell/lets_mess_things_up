@@ -1,0 +1,29 @@
+.primary_background{
+    background-color: white;
+}
+
+.primary_background h1{
+    font-size: 25px;
+}
+
+.secondary_background{
+    background-color: black;
+}
+
+.secondary_background h1{
+    color: red;
+
+}
+
+.secondary_background button{
+    color: white;
+    width:30px;
+    height: 20px;
+    font-size: 40px;
+
+}
+
+#pageDiv{
+    display: flex;
+    height: 100px;
+}
